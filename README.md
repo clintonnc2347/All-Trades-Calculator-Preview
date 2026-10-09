@@ -22,10 +22,10 @@ Native Share Support
 
 # Screenshots
 
-  HomeScreen
+HomeScreen
 ![ HomeScreen ](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) ![](assets/HomeScreenSimpleChineese.png)
 
-  Trades
+Trades
 ![ Trades ](assets/Tradesscreen.png)
 
   Construction calculators screen
