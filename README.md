@@ -22,10 +22,8 @@ Native Share Support
 
 # Screenshots
 
-
-
 HomeScreen
-![HomeScreen](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) 
+![HomeScreen](assets/HomeScreenEnglish.png) 
 
 
 Trades
