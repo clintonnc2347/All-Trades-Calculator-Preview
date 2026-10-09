@@ -45,46 +45,46 @@ Electrical calculators screen
 ![Electrical calculators screen](assets/Electricalcalculatorsscreen.png)
 
 Electrical calc 1
-![ Electrical calc 1 ](assets/Electricalcalculators1.png)
+![Electrical calc 1](assets/Electricalcalculators1.png)
 
 Plumbing calculators screen
-![ Plumbing calculators screen ](assets/Plumbingcalculatorsscreen.png)
+![Plumbing calculators screen](assets/Plumbingcalculatorsscreen.png)
 
 Plumbing calc 1
-![ Plumbing calc 1 ](assets/Plumbingcalc1.png)
+![Plumbing calc 1](assets/Plumbingcalc1.png)
   
 General contractor calculators screen
-![ General contractor calculators screen ](assets/Generalcontractorscreen.png)
+![General contractor calculators screen](assets/Generalcontractorscreen.png)
 
 General contractor calc 1
-![ General contractor calc 1 ](assets/Generalcontractorcalc1.png)
+![General contractor calc 1](assets/Generalcontractorcalc1.png)
 
 Welding calculators screen
-![ Welding calculators screen ](assets/Weldingcalculatorsscreen.png)
+![Welding calculators screen](assets/Weldingcalculatorsscreen.png)
 
 Welding calc 1
-![ Welding calc 1](assets/Weldingcalc1of4.png)
+![Welding calc 1](assets/Weldingcalc1of4.png)
 
 Carpentry calculators screen
-![ Carpentry calculators screen ](assets/Carpentrycalculatorsscreen.png)
+![Carpentry calculators screen](assets/Carpentrycalculatorsscreen.png)
 
 Carpentry calc 1
-![ Carpentry calc 1 ](assets/Carpentrycalc1of4.png)
+![Carpentry calc 1](assets/Carpentrycalc1of4.png)
 
 Mechanical calculators screen
-![ Mechanical calculators screen ](assets/Mechanicalcalculatorsscreen.png)
+![Mechanical calculators screen](assets/Mechanicalcalculatorsscreen.png)
 
 Mechanical calc 1
-![ Mechanical calc 1 ](assets/Mechanicalcalc1of4.png)
+![Mechanical calc 1](assets/Mechanicalcalc1of4.png)
 
 Job sheets screen
-![ Job sheets screen ](assets/Jobsheetsscreen.png)
+![Job sheets screen](assets/Jobsheetsscreen.png)
 
 Jobsheet PDF example
-![ Jobsheet PDF example ](assets/jobsheetpdfexample.png)
+![Jobsheet PDF example](assets/jobsheetpdfexample.png)
 
 Settings screen
-![ Settings screen ](assets/Settingsscreen.png)
+![Settings screen](assets/Settingsscreen.png)
 
 # Technology
 Python
