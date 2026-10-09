@@ -25,7 +25,7 @@ Native Share Support
 
 
   HomeScreen
-![ HomeScreen ](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) ![](assets/HomeScreenSimpleChineese.png)
+![ HomeScreen ](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) 
 
 
 
