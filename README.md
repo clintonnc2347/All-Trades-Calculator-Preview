@@ -25,26 +25,26 @@ Native Share Support
 
 
 HomeScreen
-![ HomeScreen ](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) 
+![HomeScreen](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) 
 
 
 Trades
-![ Trades ](assets/Tradesscreen.png)
+![Trades](assets/Tradesscreen.png)
 
 
 
 Construction calculators screen
-![ Construction calculators screen ](assets/Constructioncalculatorsscreen.png)
+![Construction calculators screen](assets/Constructioncalculatorsscreen.png)
 
 
 
 Construction calc 1 
-![ Construction calc 1 ](assets/Constructioncalc1.png)
+![Construction calc 1](assets/Constructioncalc1.png)
 
 
 
 Electrical calculators screen
-![ Electrical calculators screen ](assets/Electricalcalculatorsscreen.png)
+![Electrical calculators screen](assets/Electricalcalculatorsscreen.png)
 
 Electrical calc 1
 ![ Electrical calc 1 ](assets/Electricalcalculators1.png)
