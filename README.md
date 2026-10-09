@@ -1,14 +1,14 @@
-All Trades Calculator Pro
+# All Trades Calculator Pro
 Professional cross-platform trade calculations for contractors, electricians, plumbers, welders, carpenters, mechanical technicians and builders.
 
-Platforms
+# Platforms
 ✅ Android
 
 ✅ iOS
 
 ✅ Windows Desktop
 
-Features
+# Features
 
 32 Trade Calculators
 7 Trade Categories
@@ -20,47 +20,47 @@ Offline Operation
 Calculation History
 Native Share Support
 
-Screenshots
+# Screenshots
 
-![ HomeScreen ](assets/Home Screen English.png) ![](assets/Home Screen Espanol.png) ![](assets/Home Screen Simple Chineese.png)
+![ HomeScreen ](assets/HomeScreenEnglish.png) ![](assets/HomeScreenEspanol.png) ![](assets/HomeScreenSimpleChineese.png)
 
-![ Trades ](assets/Trades screen.png)
+![ Trades ](assets/Tradesscreen.png)
 
-![ Construction calculators screen ](assets/Construction calculators screen.png)
+![ Construction calculators screen ](assets/Constructioncalculatorsscreen.png)
 
-![ Construction calc 1 ](assets/Construction calc 1.png)
+![ Construction calc 1 ](assets/Constructioncalc1.png)
 
-![ Electrical calculators screen ](assets/Electrical calculators screen.png)
+![ Electrical calculators screen ](assets/Electricalcalculatorsscreen.png)
 
-![ Electrical calc 1 ](assets/Electrical calculators 1.png)
+![ Electrical calc 1 ](assets/Electricalcalculators1.png)
 
-![ Plumbing calculators screen ](assets/Plumbing calculators screen.png)
+![ Plumbing calculators screen ](assets/Plumbingcalculatorsscreen.png)
 
-![ Plumbing calc 1 ](assets/Plumbing calc 1.png)
+![ Plumbing calc 1 ](assets/Plumbingcalc1.png)
 
-![ General contractor calculators screen ](assets/General contractor screen.png)
+![ General contractor calculators screen ](assets/Generalcontractorscreen.png)
 
-![ General contractor calc 1 ](assets/General contractor calc 1.png)
+![ General contractor calc 1 ](assets/Generalcontractorcalc1.png)
 
-![ Welding calculators screen ](assets/Welding calculators screen.png)
+![ Welding calculators screen ](assets/Weldingcalculatorsscreen.png)
 
-![ Welding calc 1](assets/Welding calc 1 of 4.png)
+![ Welding calc 1](assets/Weldingcalc1of4.png)
 
-![ Carpentry calculators screen ](assets/Carpentry calculators screen.png)
+![ Carpentry calculators screen ](assets/Carpentrycalculatorsscreen.png)
 
-![ Carpentry calc 1 ](assets/Carpentry calc 1 of 4.png)
+![ Carpentry calc 1 ](assets/Carpentrycalc1of4.png)
 
-![ Mechanical calculators screen ](assets/Mechanical calculators screen.png)
+![ Mechanical calculators screen ](assets/Mechanicalcalculatorsscreen.png)
 
-![ Mechanical calc 1 ](assets/Mechanical calc 1 of 4.png)
+![ Mechanical calc 1 ](assets/Mechanicalcalc1of4.png)
 
-![ Job sheets screen ](assets/Job sheets screen.png)
+![ Job sheets screen ](assets/Jobsheetsscreen.png)
 
-![ Jobsheet PDF example ](assets/job sheet pdf example.png)
+![ Jobsheet PDF example ](assets/jobsheetpdfexample.png)
 
-![ Settings screen ](assets/Settings screen.png)
+![ Settings screen ](assets/Settingsscreen.png)
 
-Technology
+# Technology
 Python
 Kivy
 Buildozer
